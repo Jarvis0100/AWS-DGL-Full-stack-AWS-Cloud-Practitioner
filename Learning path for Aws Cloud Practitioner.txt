@@ -1,0 +1,19 @@
+AWS-DGL-Getting Started with Cloud Acquisition
+1h 33m
+AWS-DGL-Introduction to AWS Solutions
+50m
+AWS-DGL-AWS Technical Essentials
+4h
+AWS-DGL-AWS Marketplace Overview
+10m
+AWS-DGL-AWS Compute Services Overview
+5m
+AWS-DGL-AWS Network Connectivity Options
+2h 50m
+AWS-DGL-AWS Database Offerings
+5h 30m
+AWS-DGL-AWS Shared Responsibility Model
+5m
+AWS-DGL-Introduction to AWS Billing and Cost Management
+10m
+AWS-DGL-AWS Cloud Practitioner Essentials
